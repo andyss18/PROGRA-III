@@ -18,3 +18,5 @@ Con el arreglo ordenado realiza una busqueda binaria con complejidad en notacion
 
 en este caso son 10,000,000 numeros por lo que con la funcion Hash se podrá encontrar resultados mas eficientes que con 
 arreglos ordenados.
+
+Se usa mas ram en uno que en otro pero la eficiencia aumenta de la mano con el consumo.
